@@ -10,6 +10,7 @@
 ## 5. Buatlah 1 file format .md dengan nama lengkap kamu. Contoh davidwinalda.md<br> Isi file tersebut davidwinalda.md dengan konten di bawah ini: <br>Nama Lengkap: David Winalda<br>Umur: 27 <br>Pesan yang ingin disampaikan: Semangat untuk kamu yang disana sedang berjuang
    touch ghinafairuzn.md
    nano ghinafairuzn.md
+![Screenshot (1161)](https://user-images.githubusercontent.com/76485051/134200350-5f8353e6-9648-44ea-88f7-a401cbf26ed7.png)
 ## 6. Masukkan file .md tersebut ke dalam staging area
    git add .
 ## 7. Commit dengan memberikan pesan nama file .md kamu
