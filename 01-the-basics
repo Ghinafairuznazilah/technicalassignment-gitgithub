@@ -26,5 +26,10 @@
    git commit -m "removing first.txt"
 14.Check out your commits using git log
    git log
+ 
+ ## Result![Screenshot (1143)](https://user-images.githubusercontent.com/76485051/134108347-610d65f2-3f8a-4955-b5d6-30c297837779.png)
+![Screenshot (1144)](https://user-images.githubusercontent.com/76485051/134108362-b9cd1f76-8817-4a9e-858c-2bc65ce0d725.png)
+![Screenshot (1145)](https://user-images.githubusercontent.com/76485051/134108378-2c2bca1a-e2d8-43c2-9e9f-23366a09b5bd.png)
+
 
 
