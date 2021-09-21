@@ -1,5 +1,5 @@
 ### DETAIL PENYIMPANAN
-**soal no 1,3,4,5 ada di branch *new branch* **
+**soal no 1,3,4,5 ada di branch *new branch* ** <br>
 **soal no 2 ada di branch *master* **
 terima kasih.
 
