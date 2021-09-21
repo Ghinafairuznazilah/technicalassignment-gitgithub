@@ -1,0 +1,4 @@
+"Ini adalah file CV"
+"tokopedia"
+"Bank BCA"
+"Gojek"
