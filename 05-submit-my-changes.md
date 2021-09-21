@@ -21,7 +21,6 @@
    git push -u origin master <br>
 ## 10. Lakukan pull request dari GitHub Repository yang telah kamu fork untuk digabungkan ke dalam branch master pada GitHub Repository aslinya.
 ![Screenshot (1153)~2](https://user-images.githubusercontent.com/76485051/134195283-50eadb46-cd8a-4fb5-ad8b-03253e08521f.png)
-<br>
 ![Screenshot (1154)~2](https://user-images.githubusercontent.com/76485051/134195605-ddabc4fc-c35c-4dbb-b906-ca66229d475d.png)
 
 
